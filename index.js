@@ -8,7 +8,7 @@ const BOT_NAME = "𝑷𝑯𝑬𝑵𝑰𝑿 𝑮𝑼𝒀 𝑽1️⃣";
 const CREATOR = "𝑴𝑹 𝑲𝑰𝑵𝑮 𝑲𝑨𝒀𝑺𝑬𝑼𝑹 𝑻𝑯𝑬 𝑮𝑳𝑰𝑻𝑪𝑯 𝑫𝑬𝑽 👨‍💻";
 const CHANNEL_URL = process.env.CHANNEL_URL || "https://whatsapp.com/channel/0029Vb8cfQn8V0te5K0atc1s";
 const OWNER_NUMBER = (process.env.OWNER_NUMBER || "").replace(/\D/g, "");
-const MENU_IMAGE = path.join(__dirname, "assets", "menu.jpg");
+const MENU_IMAGE = path.join(__dirname, "menu.svg", "menu.svg");
 const AUTH_DIR = path.join(__dirname, "auth_info");
 const logger = pino({ level: "silent" });
 
