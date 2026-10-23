@@ -57,7 +57,7 @@ const menuText = () => {
     ["🎨 MÉDIAS & TEXTE", ["sticker","toimg","quote","say","echo","reverse","upper","lower","title","length","bold","italic","mono","bubble","small","flip","clap","emojify"]],
     ["🧰 OUTILS", ["calc","uuid","password","base64","unbase64","binary","unbinary","hex","unhex","urlencode","urldecode","wordcount","linecount","trim","sort","shuffle"]],
     ["🎮 FUN", ["choose","roll","coin","8ball","joke","fact","compliment","motivate","riddle","rps","number","cat","dog","heart","hug","ship","rate","anime","truth","dare","wyr","quiz","daily","fortune"]],
-    ["👥 GROUPES", ["groupinfo","admins","members","rules","tagall","hidetag","linkgroup","revoke","groupopen","groupclose","kick","add","promote","demote","warn","mute","unmute","antilink","antispam","welcome","goodbye","setsubject","setdesc","tagadmins","grouphelp","myrole"]],
+    ["👥 GROUPES", ["groupinfo","admins","members","rules","tagall","hidetag","linkgroup","revoke","groupopen","groupclose","kick","add","promote","demote","warn","mute","unmute","antilink","antispam","welcome","goodbye","setsubject","setdesc","tagadmins","grouphelp","myrole","purge"]],
     ["🛡️ AIDE & DIVERS", ["profile","nickname","bio","status","caption","hashtag","announce","privacy","safety","backup","github","version","creator","credits","feedback","report","terms","about","emoji","symbols","decor","frame","allcommands"]]
   ];
   let out = `╭━━━〔 🍓 *${BOT_NAME}* 〕━━━╮\n`;
