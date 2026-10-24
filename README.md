@@ -90,7 +90,7 @@ git init
 git add package.json index.js README.md .gitignore assets/
 git commit -m "Initial PHENIX GUY bot"
 git branch -M main
-git remote add origin https://github.com/TON-PSEUDO/TON-DEPOT.git
+git remote add origin https://github.com/kingkayseur-oss/phenix-guy-whatsapp-bot.git
 git push -u origin main
 ```
 
